@@ -1167,7 +1167,7 @@
 			<data>
 			</data>
 			<key>ScanPolicy</key>
-			<integer>17760515</integer>
+			<integer>0</integer>
 			<key>SecureBootModel</key>
 			<string>Default</string>
 			<key>Vault</key>
@@ -1353,7 +1353,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string></string>
+			<string>C021011304N0000A8</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -1369,9 +1369,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,2</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02F208G046M</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>6544EB66-6F7C-4002-BD68-9212DACD7EE3</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
