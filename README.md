@@ -17,7 +17,7 @@ EFI Folder for my Hackintosh Builds
 
 
 ## Boot Loader
-- OpenCore 0.9.5 (DEBUG)
+- OpenCore 0.9.6 (DEBUG)
 
 ## ACPI
 - SSDT-EC
@@ -36,13 +36,10 @@ EFI Folder for my Hackintosh Builds
 - VirtualSMC
 - WhateverGreen
 - AppleALC
-- NVMeFix (disabled on Big Sur but tried using for Ventura/Sonoma)
+- NVMeFix (disabled on Big Sur but using for Ventura/Sonoma)
 - FakePCIID
-- FakePCIID_Intel_I225-V (Big Sur, not needed for Ventura/Sonoma)
-- AirportItlwm
-- IntelBluetoothFirmware
-- IntelBluetoothInjector
-- IntelBTPatcher
 - USBMap (Custom made using USB Mapper)
 - SMCProcessor
 - SMCSuperIO
+- CpuTscSync
+- TSCAdjustReset
