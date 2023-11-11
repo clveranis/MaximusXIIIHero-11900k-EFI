@@ -48,6 +48,14 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>SSDT-HPET.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-HPET.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>SSDT-GPU-DISABLE.aml</string>
 				<key>Enabled</key>
 				<false/>
@@ -646,7 +654,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/FakePCIID</string>
 				<key>MaxKernel</key>
@@ -1537,7 +1545,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C021011304N0000A8</string>
+			<string></string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -1553,9 +1561,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02F208G046M</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>6544EB66-6F7C-4002-BD68-9212DACD7EE3</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
